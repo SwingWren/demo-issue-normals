@@ -11,17 +11,17 @@ TagManager:
   - 
   - Water
   - UI
+  - Activator
+  - 
+  - Parallax
+  - 
   - Terrain
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PlayerCharacter
+  - Platform
+  - DamageReceiver
+  - Bullet
+  - CombatEntity
+  - CombatEntityDetector
   - 
   - 
   - 
@@ -38,6 +38,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Parallax
+    uniqueID: 2654420463
+    locked: 0
+  - name: Background
+    uniqueID: 813775317
+    locked: 0
+  - name: Ground
+    uniqueID: 2600325005
+    locked: 0
+  - name: Scenario
+    uniqueID: 2963366501
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Air
+    uniqueID: 2584475181
+    locked: 0
+  - name: Effects
+    uniqueID: 2279794743
+    locked: 0
+  - name: WorldUI
+    uniqueID: 471455339
+    locked: 0
+  - name: Dialogue
+    uniqueID: 3550050287
     locked: 0
